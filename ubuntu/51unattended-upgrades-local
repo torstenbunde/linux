@@ -1,0 +1,7 @@
+// Eigene Datei fuer automatische Updates unter Ubuntu (22.04 LTS, 24.04 LTS)
+Unattended-Upgrade::Allowed-Origins {
+    // Google Chrome
+    "Google LLC:stable";
+};
+
+// End of file
